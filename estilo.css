@@ -1,0 +1,32 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.C1{
+    width: 25%;
+    border:solid black 30px;
+    margin: 100px;
+    padding: auto;
+    border-radius: 40px;
+    
+  
+}
+.C2{
+    width: 25%;
+    border: solid black 30px;
+    margin: 100px;
+    padding: auto;
+}
+
+.perros{
+    border-radius: 50px;
+    
+}
+.border{
+    border: solid rgb(0, 0, 0)
+}
